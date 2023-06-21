@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "devCommand": "npm run build && serve -p $PORT build",
+  "outputDirectory": "build",
+  "installCommand": "npm install"
+}
+
